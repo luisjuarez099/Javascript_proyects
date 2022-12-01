@@ -16,3 +16,5 @@ console.log({
   pid,
   input,
 });
+
+h1.innerHTML="Manipulacion js"
